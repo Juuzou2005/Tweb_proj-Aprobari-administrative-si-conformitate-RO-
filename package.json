@@ -1,0 +1,29 @@
+{
+  "name": "tweb_proj-aprobari-administrative-si-conformitate-ro-",
+  "version": "1.0.0",
+  "description": "Proiect",
+  "homepage": "https://github.com/Juuzou2005/Tweb_proj-Aprobari-administrative-si-conformitate-RO-#readme",
+  "bugs": {
+    "url": "https://github.com/Juuzou2005/Tweb_proj-Aprobari-administrative-si-conformitate-RO-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juuzou2005/Tweb_proj-Aprobari-administrative-si-conformitate-RO-.git"
+  },
+  "license": "ISC",
+  "author": "Us",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^13.2.0",
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.5.0"
+  }
+}
